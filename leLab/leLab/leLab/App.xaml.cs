@@ -11,6 +11,7 @@ namespace leLab
             InitializeComponent();
 
             MainPage = new MainPage();
+            //point d'entrée
         }
 
         protected override void OnStart()

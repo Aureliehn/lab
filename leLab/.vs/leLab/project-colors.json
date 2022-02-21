@@ -1,0 +1,26 @@
+{
+  "Version": 1,
+  "ProjectMap": {
+    "027ed3c4-a96e-4242-a574-375b6215dea8": {
+      "ProjectGuid": "027ed3c4-a96e-4242-a574-375b6215dea8",
+      "DisplayName": "leLab",
+      "ColorIndex": 0
+    },
+    "a2fe74e1-b743-11d0-ae1a-00a0c90fffc3": {
+      "ProjectGuid": "a2fe74e1-b743-11d0-ae1a-00a0c90fffc3",
+      "DisplayName": "Fichiers divers",
+      "ColorIndex": -1
+    },
+    "5b242180-69bf-4774-a1c5-3ad7c320e4a1": {
+      "ProjectGuid": "5b242180-69bf-4774-a1c5-3ad7c320e4a1",
+      "DisplayName": "leLab.Android",
+      "ColorIndex": 1
+    },
+    "f6ee3e61-b1cb-4a3f-b534-46b641c5fb89": {
+      "ProjectGuid": "f6ee3e61-b1cb-4a3f-b534-46b641c5fb89",
+      "DisplayName": "leLab.iOS",
+      "ColorIndex": 2
+    }
+  },
+  "NextColorIndex": 3
+}

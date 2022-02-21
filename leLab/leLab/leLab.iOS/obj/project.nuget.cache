@@ -1,12 +1,12 @@
 {
   "version": 2,
-  "dgSpecHash": "Z1D0Xfgaxo4TuDYptWOEuJxtbfW782F0sEK7wgJaOxRUl3uOwpNi6PUAGOTjGMLoBXLBfnSHrA/KVdwkmu994Q==",
+  "dgSpecHash": "YD6hZZw8TcSjSV5AnYucOG/sSXteWqpx0i3KEOf2L2pHjfBH26Bj1l+Fep1qGYj+idYcdbyZxgOacwKJVAUKVw==",
   "success": true,
   "projectFilePath": "C:\\Users\\abesnard\\Nouveau dossier\\leLab\\lab\\leLab\\leLab\\leLab.iOS\\leLab.iOS.csproj",
   "expectedPackageFiles": [
     "C:\\Users\\abesnard\\.nuget\\packages\\system.numerics.vectors\\4.5.0\\system.numerics.vectors.4.5.0.nupkg.sha512",
-    "C:\\Users\\abesnard\\.nuget\\packages\\xamarin.essentials\\1.7.0\\xamarin.essentials.1.7.0.nupkg.sha512",
-    "C:\\Users\\abesnard\\.nuget\\packages\\xamarin.forms\\5.0.0.2196\\xamarin.forms.5.0.0.2196.nupkg.sha512"
+    "C:\\Users\\abesnard\\.nuget\\packages\\xamarin.essentials\\1.7.1\\xamarin.essentials.1.7.1.nupkg.sha512",
+    "C:\\Users\\abesnard\\.nuget\\packages\\xamarin.forms\\5.0.0.2337\\xamarin.forms.5.0.0.2337.nupkg.sha512"
   ],
   "logs": []
 }

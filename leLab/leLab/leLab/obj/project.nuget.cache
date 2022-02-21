@@ -1,14 +1,14 @@
 {
   "version": 2,
-  "dgSpecHash": "SctuEixhZAXs6FKyzVLgtlicU4vCKA8av1NB/ZP4Gm2zpMJZMX3jl7FDc7uAccRgoHtSbjYowHOoHgE7ZDJQXQ==",
+  "dgSpecHash": "+nnT7bHHEqvUqjKmXzRAD2GS5jtwOTSE9g1z8t6/GqugqNIuLxtI7C4JP4bi2bnAyPr3deaHsrFxEU0dKKSJ5Q==",
   "success": true,
   "projectFilePath": "C:\\Users\\abesnard\\Nouveau dossier\\leLab\\lab\\leLab\\leLab\\leLab\\leLab.csproj",
   "expectedPackageFiles": [
     "C:\\Users\\abesnard\\.nuget\\packages\\microsoft.netcore.platforms\\1.1.0\\microsoft.netcore.platforms.1.1.0.nupkg.sha512",
     "C:\\Users\\abesnard\\.nuget\\packages\\netstandard.library\\2.0.3\\netstandard.library.2.0.3.nupkg.sha512",
     "C:\\Users\\abesnard\\.nuget\\packages\\system.numerics.vectors\\4.5.0\\system.numerics.vectors.4.5.0.nupkg.sha512",
-    "C:\\Users\\abesnard\\.nuget\\packages\\xamarin.essentials\\1.7.0\\xamarin.essentials.1.7.0.nupkg.sha512",
-    "C:\\Users\\abesnard\\.nuget\\packages\\xamarin.forms\\5.0.0.2196\\xamarin.forms.5.0.0.2196.nupkg.sha512"
+    "C:\\Users\\abesnard\\.nuget\\packages\\xamarin.essentials\\1.7.1\\xamarin.essentials.1.7.1.nupkg.sha512",
+    "C:\\Users\\abesnard\\.nuget\\packages\\xamarin.forms\\5.0.0.2337\\xamarin.forms.5.0.0.2337.nupkg.sha512"
   ],
   "logs": []
 }

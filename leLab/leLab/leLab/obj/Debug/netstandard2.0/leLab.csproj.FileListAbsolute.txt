@@ -1,0 +1,15 @@
+C:\Users\abesnard\Nouveau dossier\leLab\lab\leLab\leLab\leLab\bin\Debug\netstandard2.0\leLab.deps.json
+C:\Users\abesnard\Nouveau dossier\leLab\lab\leLab\leLab\leLab\bin\Debug\netstandard2.0\leLab.dll
+C:\Users\abesnard\Nouveau dossier\leLab\lab\leLab\leLab\leLab\bin\Debug\netstandard2.0\ref\leLab.dll
+C:\Users\abesnard\Nouveau dossier\leLab\lab\leLab\leLab\leLab\bin\Debug\netstandard2.0\leLab.pdb
+C:\Users\abesnard\Nouveau dossier\leLab\lab\leLab\leLab\leLab\obj\Debug\netstandard2.0\leLab.csproj.AssemblyReference.cache
+C:\Users\abesnard\Nouveau dossier\leLab\lab\leLab\leLab\leLab\obj\Debug\netstandard2.0\leLab.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\abesnard\Nouveau dossier\leLab\lab\leLab\leLab\leLab\obj\Debug\netstandard2.0\App.xaml.g.cs
+C:\Users\abesnard\Nouveau dossier\leLab\lab\leLab\leLab\leLab\obj\Debug\netstandard2.0\MainPage.xaml.g.cs
+C:\Users\abesnard\Nouveau dossier\leLab\lab\leLab\leLab\leLab\obj\Debug\netstandard2.0\leLab.AssemblyInfoInputs.cache
+C:\Users\abesnard\Nouveau dossier\leLab\lab\leLab\leLab\leLab\obj\Debug\netstandard2.0\leLab.AssemblyInfo.cs
+C:\Users\abesnard\Nouveau dossier\leLab\lab\leLab\leLab\leLab\obj\Debug\netstandard2.0\leLab.csproj.CoreCompileInputs.cache
+C:\Users\abesnard\Nouveau dossier\leLab\lab\leLab\leLab\leLab\obj\Debug\netstandard2.0\XamlC.stamp
+C:\Users\abesnard\Nouveau dossier\leLab\lab\leLab\leLab\leLab\obj\Debug\netstandard2.0\leLab.dll
+C:\Users\abesnard\Nouveau dossier\leLab\lab\leLab\leLab\leLab\obj\Debug\netstandard2.0\ref\leLab.dll
+C:\Users\abesnard\Nouveau dossier\leLab\lab\leLab\leLab\leLab\obj\Debug\netstandard2.0\leLab.pdb
