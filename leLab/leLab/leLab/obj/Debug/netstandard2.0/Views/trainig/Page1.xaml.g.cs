@@ -8,12 +8,12 @@
 // </auto-generated>
 //------------------------------------------------------------------------------
 
-[assembly: global::Xamarin.Forms.Xaml.XamlResourceIdAttribute("leLab.Views.CountPage.xaml", "Views/CountPage.xaml", typeof(global::leLab.Views.Page1))]
+[assembly: global::Xamarin.Forms.Xaml.XamlResourceIdAttribute("leLab.Views.trainig.Page1.xaml", "Views/trainig/Page1.xaml", typeof(global::leLab.Views.trainig.Page1))]
 
-namespace leLab.Views {
+namespace leLab.Views.trainig {
     
     
-    [global::Xamarin.Forms.Xaml.XamlFilePathAttribute("Views\\CountPage.xaml")]
+    [global::Xamarin.Forms.Xaml.XamlFilePathAttribute("Views\\trainig\\Page1.xaml")]
     public partial class Page1 : global::Xamarin.Forms.ContentPage {
         
         [global::System.CodeDom.Compiler.GeneratedCodeAttribute("Xamarin.Forms.Build.Tasks.XamlG", "2.0.0.0")]

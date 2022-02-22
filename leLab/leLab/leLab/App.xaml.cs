@@ -1,7 +1,8 @@
-﻿using System;
+﻿using leLab.Views.trainig;
+using System;
 using Xamarin.Forms;
 using Xamarin.Forms.Xaml;
-using leLab.Views;
+
 
 namespace leLab
 {
@@ -12,7 +13,7 @@ namespace leLab
         {
            
 
-            MainPage = new MainPage();
+            MainPage = new NavigationPage(new Page1());
             //point d'entrée
         }
 
