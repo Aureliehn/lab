@@ -1,10 +1,5 @@
 C:\Users\abesnard\Nouveau dossier\leLab\lab\leLab\leLab\leLab.Android\bin\Debug\leLab.Android.dll
 C:\Users\abesnard\Nouveau dossier\leLab\lab\leLab\leLab\leLab.Android\bin\Debug\leLab.Android.pdb
-C:\Users\abesnard\Nouveau dossier\leLab\lab\leLab\leLab\leLab.Android\bin\Debug\com.companyname.lelab.apk
-C:\Users\abesnard\Nouveau dossier\leLab\lab\leLab\leLab\leLab.Android\bin\Debug\com.companyname.lelab.aab
-C:\Users\abesnard\Nouveau dossier\leLab\lab\leLab\leLab\leLab.Android\bin\Debug\com.companyname.lelab-Signed.aab
-C:\Users\abesnard\Nouveau dossier\leLab\lab\leLab\leLab\leLab.Android\bin\Debug\com.companyname.lelab-Signed.apk
-C:\Users\abesnard\Nouveau dossier\leLab\lab\leLab\leLab\leLab.Android\bin\Debug\com.companyname.lelab-Signed.apk.idsig
 C:\Users\abesnard\Nouveau dossier\leLab\lab\leLab\leLab\leLab.Android\bin\Debug\leLab.dll
 C:\Users\abesnard\Nouveau dossier\leLab\lab\leLab\leLab\leLab.Android\bin\Debug\leLab.pdb
 C:\Users\abesnard\Nouveau dossier\leLab\lab\leLab\leLab\leLab.Android\obj\Debug\120\MonoAndroid,Version=v12.0.AssemblyAttributes.cs
@@ -44,10 +39,7 @@ C:\Users\abesnard\Nouveau dossier\leLab\lab\leLab\leLab\leLab.Android\obj\Debug\
 C:\Users\abesnard\Nouveau dossier\leLab\lab\leLab\leLab\leLab.Android\obj\Debug\120\leLab.Android.csproj.CopyComplete
 C:\Users\abesnard\Nouveau dossier\leLab\lab\leLab\leLab\leLab.Android\obj\Debug\120\leLab.Android.dll
 C:\Users\abesnard\Nouveau dossier\leLab\lab\leLab\leLab\leLab.Android\obj\Debug\120\leLab.Android.pdb
-C:\Users\abesnard\Nouveau dossier\leLab\lab\leLab\leLab\leLab.Android\obj\Debug\120\android\bin\com.companyname.lelab.apk
 C:\Users\abesnard\Nouveau dossier\leLab\lab\leLab\leLab\leLab.Android\obj\Debug\120\android\bin\base.zip
-C:\Users\abesnard\Nouveau dossier\leLab\lab\leLab\leLab\leLab.Android\obj\Debug\120\android\bin\com.companyname.lelab.aab
-C:\Users\abesnard\Nouveau dossier\leLab\lab\leLab\leLab\leLab.Android\obj\Debug\120\android\bin\com.companyname.lelab.apks
 C:\Users\abesnard\Nouveau dossier\leLab\lab\leLab\leLab\leLab.Android\obj\Debug\120\res\values\styles.xml
 C:\Users\abesnard\Nouveau dossier\leLab\lab\leLab\leLab\leLab.Android\obj\Debug\120\res\values\colors.xml
 C:\Users\abesnard\Nouveau dossier\leLab\lab\leLab\leLab\leLab.Android\obj\Debug\120\res\mipmap-anydpi-v26\icon.xml
@@ -628,3 +620,12 @@ C:\Users\abesnard\Nouveau dossier\leLab\lab\leLab\leLab\leLab.Android\obj\Debug\
 C:\Users\abesnard\Nouveau dossier\leLab\lab\leLab\leLab\leLab.Android\obj\Debug\120\stamp\_GeneratePackageManagerJava.stamp
 C:\Users\abesnard\Nouveau dossier\leLab\lab\leLab\leLab\leLab.Android\obj\Debug\120\stamp\_ResolveLibraryProjectImports.stamp
 C:\Users\abesnard\Nouveau dossier\leLab\lab\leLab\leLab\leLab.Android\obj\Debug\120\android\src\crc64a0e0a82d0db9a07d\Connectivity_EssentialsNetworkCallback.java
+C:\Users\abesnard\Nouveau dossier\leLab\lab\leLab\leLab\leLab.Android\bin\Debug\com.aurelieHN.lelab.apk
+C:\Users\abesnard\Nouveau dossier\leLab\lab\leLab\leLab\leLab.Android\bin\Debug\com.aurelieHN.lelab.aab
+C:\Users\abesnard\Nouveau dossier\leLab\lab\leLab\leLab\leLab.Android\bin\Debug\com.aurelieHN.lelab-Signed.aab
+C:\Users\abesnard\Nouveau dossier\leLab\lab\leLab\leLab\leLab.Android\bin\Debug\com.aurelieHN.lelab-Signed.apk
+C:\Users\abesnard\Nouveau dossier\leLab\lab\leLab\leLab\leLab.Android\bin\Debug\com.aurelieHN.lelab-Signed.apk.idsig
+C:\Users\abesnard\Nouveau dossier\leLab\lab\leLab\leLab\leLab.Android\obj\Debug\120\android\bin\com.aurelieHN.lelab.apk
+C:\Users\abesnard\Nouveau dossier\leLab\lab\leLab\leLab\leLab.Android\obj\Debug\120\android\bin\com.aurelieHN.lelab.aab
+C:\Users\abesnard\Nouveau dossier\leLab\lab\leLab\leLab\leLab.Android\obj\Debug\120\android\bin\com.aurelieHN.lelab.apks
+C:\Users\abesnard\Nouveau dossier\leLab\lab\leLab\leLab\leLab.Android\obj\Debug\120\android\src\com\aureliehn\lelab\R.java

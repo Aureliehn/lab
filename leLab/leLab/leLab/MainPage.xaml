@@ -1,24 +1,15 @@
 ﻿<?xml version="1.0" encoding="utf-8" ?>
 <ContentPage xmlns="http://xamarin.com/schemas/2014/forms"
              xmlns:x="http://schemas.microsoft.com/winfx/2009/xaml"
-             x:Class="leLab.MainPage">
+             x:Class="leLab.MainPage"
+              BackgroundColor="AliceBlue">
 
     <StackLayout>
-        <Frame BackgroundColor="#2196F3" Padding="24" CornerRadius="0">
-            <Label Text="Welcome to Xamarin.Forms!" HorizontalTextAlignment="Center" TextColor="White" FontSize="36"/>
-        </Frame>
-        <Label Text="Yo" FontSize="Title" Padding="30,10,30,10"/>
-        <Label Text="Hello" FontSize="16" Padding="30,0,30,0"/>
-        <Label FontSize="16" Padding="30,24,30,0">
-            <Label.FormattedText>
-                <FormattedString>
-                    <FormattedString.Spans>
-                        <Span Text="Tadam"/>
-                        <Span Text="Bim" FontAttributes="Bold"/>
-                    </FormattedString.Spans>
-                </FormattedString>
-            </Label.FormattedText>
-        </Label>
+        <StackLayout Spacing="0" Orientation="Vertical" HorizontalOptions="Center" VerticalOptions="CenterAndExpand">
+            <Label x:Name="countLabel" HorizontalTextAlignment="Center" TextColor="DarkBlue" FontSize="80" Text="0"/>
+            <Button Margin="0, 20, 0, 0" Text="Ajouter" Clicked="Count_Button_Clicked"/>
+            <Button Margin="0, 20, 0, 0" Text="Enlever" Clicked="Decremente_Button_Clicked"/>
+        </StackLayout>
     </StackLayout>
 
 </ContentPage>

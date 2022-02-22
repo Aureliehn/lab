@@ -1,14 +1,16 @@
 ﻿using System;
 using Xamarin.Forms;
 using Xamarin.Forms.Xaml;
+using leLab.Views;
 
 namespace leLab
 {
     public partial class App : Application
     {
+
         public App()
         {
-            InitializeComponent();
+           
 
             MainPage = new MainPage();
             //point d'entrée
