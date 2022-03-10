@@ -590,7 +590,6 @@ C:\Users\abesnard\Nouveau dossier\leLab\lab\leLab\leLab\leLab.Android\obj\Debug\
 C:\Users\abesnard\Nouveau dossier\leLab\lab\leLab\leLab\leLab.Android\obj\Debug\120\android\src\mono\MonoPackageManager_Resources.java
 C:\Users\abesnard\Nouveau dossier\leLab\lab\leLab\leLab\leLab.Android\obj\Debug\120\android\src\xamarin\essentials\fileProvider.java
 C:\Users\abesnard\Nouveau dossier\leLab\lab\leLab\leLab\leLab.Android\obj\Debug\120\android\bin\packaged_resources
-C:\Users\abesnard\Nouveau dossier\leLab\lab\leLab\leLab\leLab.Android\obj\Debug\120\android\src\com\companyname\lelab\R.java
 C:\Users\abesnard\Nouveau dossier\leLab\lab\leLab\leLab\leLab.Android\obj\Debug\120\android\compressed_assemblies.arm64-v8a.s
 C:\Users\abesnard\Nouveau dossier\leLab\lab\leLab\leLab\leLab.Android\obj\Debug\120\android\compressed_assemblies.armeabi-v7a.s
 C:\Users\abesnard\Nouveau dossier\leLab\lab\leLab\leLab\leLab.Android\obj\Debug\120\android\compressed_assemblies.x86.s
@@ -629,3 +628,4 @@ C:\Users\abesnard\Nouveau dossier\leLab\lab\leLab\leLab\leLab.Android\obj\Debug\
 C:\Users\abesnard\Nouveau dossier\leLab\lab\leLab\leLab\leLab.Android\obj\Debug\120\android\bin\com.aurelieHN.lelab.aab
 C:\Users\abesnard\Nouveau dossier\leLab\lab\leLab\leLab\leLab.Android\obj\Debug\120\android\bin\com.aurelieHN.lelab.apks
 C:\Users\abesnard\Nouveau dossier\leLab\lab\leLab\leLab\leLab.Android\obj\Debug\120\android\src\com\aureliehn\lelab\R.java
+C:\Users\abesnard\Nouveau dossier\leLab\lab\leLab\leLab\leLab.Android\obj\Debug\120\res\drawable\fire.png

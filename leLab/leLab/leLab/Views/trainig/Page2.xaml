@@ -1,0 +1,109 @@
+﻿<?xml version="1.0" encoding="utf-8" ?>
+<ContentPage xmlns="http://xamarin.com/schemas/2014/forms"
+             xmlns:x="http://schemas.microsoft.com/winfx/2009/xaml"
+             x:Class="leLab.Views.trainig.Page2">
+    <ContentPage.Content>
+        <StackLayout>
+            <StackLayout Orientation="Horizontal" BackgroundColor="Gray">
+                <Label
+                       TextColor="White"
+                       Text="Véhicules en intervention"></Label>
+            </StackLayout>
+            <ListView x:Name="listView" RowHeight="100" BackgroundColor="Black">
+                <ListView.ItemTemplate>
+                    <DataTemplate>
+                        <ViewCell>
+                            <StackLayout>
+                                <StackLayout Orientation="Horizontal" HeightRequest="90"
+                                         Spacing="15" Padding="0" BackgroundColor="Black">
+                                <Frame Padding="0" CornerRadius="8" BackgroundColor="Transparent">
+                                        <Grid HeightRequest="78" WidthRequest="78" MinimumWidthRequest="78">
+                                            <BoxView BackgroundColor="White" HeightRequest="78" WidthRequest="78" />
+                                                <Image
+                                                      Grid.Row="0"
+                                                      Grid.Column="0"
+                                                      Source="{Binding Image}"
+                                                      Aspect="AspectFill"
+                                                      Margin="10,15,5,15"
+                                                      BackgroundColor="#F0F0F0"
+                                                      HeightRequest="78"
+                                                      WidthRequest="78">
+                                                </Image>
+                                        </Grid>
+                                </Frame>
+                                <StackLayout HorizontalOptions="FillAndExpand" Spacing="0" Padding="0">
+                                    <Label FontAttributes="Bold" FontSize="16" TextColor="White"
+                                            Text="{Binding Titre}" LineBreakMode="WordWrap" />
+                                    <Label Text="Statut du véhicule"
+                                            TextColor="#AFAFAF" FontSize="11" />
+                                    <Label FontSize="14" TextColor="White" Text="{Binding Name}"
+                                            LineBreakMode="WordWrap" />
+                                </StackLayout>
+                            </StackLayout>
+                            <StackLayout Orientation="Horizontal" BackgroundColor="Gray">
+                                <Label
+                                    TextColor="White"
+                                    Text="Pompiers :"></Label>
+                                <Label
+                                    TextColor="White"
+                                    Text="{Binding NbrPompier}"></Label>
+                            </StackLayout>
+                        </StackLayout>
+                    </ViewCell>
+                </DataTemplate>
+            </ListView.ItemTemplate>
+        </ListView>
+            <StackLayout>
+                <Label
+                    Text="Véhicule(s) ayant participé(s) à l'opération"
+                    BackgroundColor="Gray"
+                    TextColor="Black">
+                </Label>
+            </StackLayout>
+            <ListView x:Name="listView2" RowHeight="100" BackgroundColor="White">
+                <ListView.ItemTemplate>
+                    <DataTemplate>
+                        <ViewCell>
+                            <StackLayout>
+                                <StackLayout Orientation="Horizontal" HeightRequest="90"
+                                         Spacing="15" Padding="0" BackgroundColor="White">
+                                    <Frame Padding="0" CornerRadius="8" BackgroundColor="Transparent">
+                                        <Grid HeightRequest="78" WidthRequest="78" MinimumWidthRequest="78">
+                                            <BoxView BackgroundColor="White" HeightRequest="90" WidthRequest="78" />
+                                            <Image
+                                                      Grid.Row="0"
+                                                      Grid.Column="0"
+                                                      Source="{Binding Image}"
+                                                      Aspect="AspectFill"
+                                                      Margin="10,15,5,15"
+                                                      BackgroundColor="#F0F0F0"
+                                                      HeightRequest="78"
+                                                      WidthRequest="78">
+                                            </Image>
+                                        </Grid>
+                                    </Frame>
+                                    <StackLayout HorizontalOptions="FillAndExpand" Spacing="0" Padding="0">
+                                        <Label FontAttributes="Bold" FontSize="16" TextColor="Black"
+                                            Text="{Binding Titre}" LineBreakMode="WordWrap" />
+                                        <Label Text="Statut du véhicule"
+                                            TextColor="#AFAFAF" FontSize="11" />
+                                        <Label FontSize="14" TextColor="Black" Text="{Binding Name}"
+                                            LineBreakMode="WordWrap" />
+                                    </StackLayout>
+                                </StackLayout>
+                                <StackLayout Orientation="Horizontal" BackgroundColor="Gray">
+                                    <Label
+                                    TextColor="White"
+                                    Text="Pompiers :"></Label>
+                                    <Label
+                                    TextColor="White"
+                                    Text="{Binding NbrPompier}"></Label>
+                                </StackLayout>
+                            </StackLayout>
+                        </ViewCell>
+                    </DataTemplate>
+                </ListView.ItemTemplate>
+            </ListView>
+        </StackLayout>
+    </ContentPage.Content>
+</ContentPage>

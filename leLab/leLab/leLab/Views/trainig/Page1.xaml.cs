@@ -21,5 +21,9 @@ namespace leLab.Views.trainig
         {
             this.Navigation.PushAsync(new MainPage());
         }
+        private void Test_Clicked(object sender, EventArgs e)
+        {
+            this.Navigation.PushAsync(new Page2());
+        }
     }
 }

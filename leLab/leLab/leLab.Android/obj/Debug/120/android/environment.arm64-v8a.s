@@ -3,8 +3,8 @@
 	.section	.rodata.env.str.1,"aMS",@progbits,1
 	.type	.L.env.str.1, @object
 .L.env.str.1:
-	.asciz	"com.companyname.lelab"
-	.size	.L.env.str.1, 22
+	.asciz	"com.aurelieHN.lelab"
+	.size	.L.env.str.1, 20
 	.section	.data.application_config,"aw",@progbits
 	.type	application_config, @object
 	.p2align	3
@@ -26,10 +26,12 @@ application_config:
 	.byte	0
 	/* have_runtime_config_blob */
 	.byte	0
+	/* have_assembly_store */
+	.byte	0
 	/* bound_exception_type */
 	.byte	1
 	/* package_naming_policy */
-	.zero	3
+	.zero	2
 	.word	3
 	/* environment_variable_count */
 	.word	12
@@ -39,9 +41,13 @@ application_config:
 	.word	85
 	/* bundled_assembly_name_width */
 	.word	63
+	/* number_of_assembly_store_files */
+	.word	2
+	/* mono_components_mask */
+	.word	0
 	/* android_package_name */
 	.xword	.L.env.str.1
-	.size	application_config, 40
+	.size	application_config, 48
 	.section	.rodata.env.str.2,"aMS",@progbits,1
 	.type	.L.env.str.2, @object
 .L.env.str.2:
@@ -79,7 +85,7 @@ mono_aot_mode_name:
 	.section	.rodata.env.str.8,"aMS",@progbits,1
 	.type	.L.env.str.8, @object
 .L.env.str.8:
-	.asciz	"11e3d7f9-e683-4f64-99bb-b502704d427e"
+	.asciz	"af6d9802-dcdd-4c70-a670-300d4471b71f"
 	.size	.L.env.str.8, 37
 	.section	.rodata.env.str.9,"aMS",@progbits,1
 	.type	.L.env.str.9, @object
@@ -135,6 +141,7 @@ app_environment_variables:
 	.global	app_system_properties
 app_system_properties:
 	.size	app_system_properties, 0
+
 	/* Bundled assembly name buffers, all 63 bytes long */
 	.section	.bss.bundled_assembly_names,"aw",@nobits
 .L.env.buf.1:
@@ -307,6 +314,7 @@ app_system_properties:
 	.zero	63
 .L.env.buf.85:
 	.zero	63
+
 	/* Bundled assemblies data */
 	.section	.data.bundled_assemblies,"aw",@progbits
 	.type	bundled_assemblies, @object
@@ -1589,3 +1597,18 @@ bundled_assemblies:
 	.xword	.L.env.buf.85
 
 	.size	bundled_assemblies, 3400
+
+
+	/* Assembly store individual assembly data */
+	.section	.data.assembly_store_bundled_assemblies,"aw",@progbits
+	.type	assembly_store_bundled_assemblies, @object
+	.p2align	3
+	.global	assembly_store_bundled_assemblies
+assembly_store_bundled_assemblies:
+
+	/* Assembly store data */
+	.section	.data.assembly_stores,"aw",@progbits
+	.type	assembly_stores, @object
+	.p2align	3
+	.global	assembly_stores
+assembly_stores:

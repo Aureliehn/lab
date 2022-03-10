@@ -1,6 +1,5 @@
 C:\Users\abesnard\Nouveau dossier\leLab\lab\leLab\leLab\leLab\bin\Debug\netstandard2.0\leLab.deps.json
 C:\Users\abesnard\Nouveau dossier\leLab\lab\leLab\leLab\leLab\bin\Debug\netstandard2.0\leLab.dll
-C:\Users\abesnard\Nouveau dossier\leLab\lab\leLab\leLab\leLab\bin\Debug\netstandard2.0\ref\leLab.dll
 C:\Users\abesnard\Nouveau dossier\leLab\lab\leLab\leLab\leLab\bin\Debug\netstandard2.0\leLab.pdb
 C:\Users\abesnard\Nouveau dossier\leLab\lab\leLab\leLab\leLab\obj\Debug\netstandard2.0\leLab.csproj.AssemblyReference.cache
 C:\Users\abesnard\Nouveau dossier\leLab\lab\leLab\leLab\leLab\obj\Debug\netstandard2.0\leLab.GeneratedMSBuildEditorConfig.editorconfig
@@ -14,3 +13,5 @@ C:\Users\abesnard\Nouveau dossier\leLab\lab\leLab\leLab\leLab\obj\Debug\netstand
 C:\Users\abesnard\Nouveau dossier\leLab\lab\leLab\leLab\leLab\obj\Debug\netstandard2.0\ref\leLab.dll
 C:\Users\abesnard\Nouveau dossier\leLab\lab\leLab\leLab\leLab\obj\Debug\netstandard2.0\leLab.pdb
 C:\Users\abesnard\Nouveau dossier\leLab\lab\leLab\leLab\leLab\obj\Debug\netstandard2.0\Views\trainig\Page1.xaml.g.cs
+C:\Users\abesnard\Nouveau dossier\leLab\lab\leLab\leLab\leLab\obj\Debug\netstandard2.0\refint\leLab.dll
+C:\Users\abesnard\Nouveau dossier\leLab\lab\leLab\leLab\leLab\obj\Debug\netstandard2.0\Views\trainig\Page2.xaml.g.cs

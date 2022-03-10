@@ -11,6 +11,8 @@
             <Button Margin="0, 20, 0, 0" Text="Ajouter" Clicked="Count_Button_Clicked"/>
             <Button Margin="0, 20, 0, 0" Text="Enlever" Clicked="Decremente_Button_Clicked"/>
         </StackLayout>
+
     </StackLayout>
+
 
 </ContentPage>
