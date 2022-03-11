@@ -54,7 +54,10 @@
             </ListView.ItemTemplate>
         </ListView>
             <StackLayout>
+
                 <Label
+                  x:Name="label_out_operation"
+                    IsVisible="true"
                     Text="Véhicule(s) ayant participé(s) à l'opération"
                     BackgroundColor="Gray"
                     TextColor="Black">
